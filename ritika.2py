@@ -1,0 +1,11 @@
+lst=[1,2,3]
+tup=(4,5,6)
+sett={10,11,12}
+dict1={"a":30,"b":40}
+lst.append(3)
+sett.add(9)
+dict1["c"]=50
+print(lst)
+print(tup)
+print(sett)
+print(dict1)
