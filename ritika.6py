@@ -1,0 +1,5 @@
+import matplotib.pyplot as
+x=[1,2,5,7]
+y=[10,15,20,30]
+plt.plot(x,y)
+plt.show()
