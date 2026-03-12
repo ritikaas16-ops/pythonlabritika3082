@@ -1,0 +1,8 @@
+def add(a,b)
+return a+b
+class sample
+def display(self):
+print("this is a class method")
+print(add(4,2))
+obj=sample()
+obj.display()
