@@ -1,0 +1,6 @@
+n=int(input("Enter a number"))
+ifn%2==0ven number")
+else
+print("Odd number")
+for i in range(1,n+1):
+print(i,end=="")
