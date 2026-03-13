@@ -6,3 +6,6 @@ print("this is a class method")
 print(add(4,2))
 obj=sample()
 obj.display()
+output:
+6
+this is a class method
